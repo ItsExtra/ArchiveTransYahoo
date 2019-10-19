@@ -3,7 +3,7 @@ Archive the contents of trans Yahoo groups before they disapear Dec 14 2019
 
 Since the 90s, Yahoo email lists have served as a way for trans people to disscuss our lives online. While they have recently been less popular owing to many people moving on to technologies other than emails, these forums touched the lives of many thousands of people. 
 
-On 
+[Understand what's changing in Yahoo Groups](https://help.yahoo.com/kb/groups/SLN31010.html)
 
 > Beginning October 28 you won't be able to upload any more content to the site, and as of December 14 all previously posted content on the site  will be permanently removed.
 
