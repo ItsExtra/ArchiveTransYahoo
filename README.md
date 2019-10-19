@@ -21,6 +21,9 @@ https://www.archiveteam.org/index.php?title=Yahoo!_Groups
 
 Reddit thread on /r/DataHoarder: [All of Yahoo Groups is being rm -rf'd December ](https://www.reddit.com/r/DataHoarder/comments/dipcj6/all_of_yahoo_groups_is_being_rm_rfd_december_14/f3yzwv2/?context=3)
 
+Google Doc [Yahoo Groups Will Be Shutting Down - What Each of You Can Do
+](https://docs.google.com/document/d/17fnAilYIKs08IxvgucJgPBJ3JUnSZNct_BGGKYnsidY/edit#heading=h.iqlbcx8ih04u) (do not need ot be logged in to google to view) which provides some instructions for downloading and link to a form [Yahoo Groups Being Archived](https://docs.google.com/forms/d/e/1FAIpQLScmtd5uguxd6qksc_T7piTdPt7yiwlRMccU28ExHQixIzN6gA/viewform), which indicates it is only for people in "fandoms". 
+
 Potential software tools
 
 - https://github.com/nsapa/yahoo-group-archiver  
