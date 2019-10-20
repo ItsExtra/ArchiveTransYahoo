@@ -1,24 +1,45 @@
+``
+October 20 2019 16:27 EST
+Please don't edit! 
+ping me Solanum on http://chat.efnet.org:9090/channels=%23yahoosucks&Login=Login
+``
+
+
+
+
+
+
 # Questions from #yahoosucks
 
 [toc]
 
-## Contact
+## Contact and quick links
+
+### Wiki and what's going on
+
+Please see the Archive Team's [wiki page on Yahoo Groups](https://www.archiveteam.org/index.php?title=Yahoo!_Groups) for background and general information about what's happening.  
+
+> Uploading of new content will be disabled 28 October 2019, and all  content, including message history, will be deleted 14 December 2019.[[1\]](https://www.archiveteam.org/index.php?title=Yahoo!_Groups#cite_note-1) (The mailing lists themselves will continue to function.) 
 
 ### IRC
 
-...add...
+The Yahoo Groups working group can be found on IRC http://chat.efnet.org:9090/ #[yahoosucks](http://chat.efnet.org:9090/?channels=%23yahoosucks). You can chat in your web browser by following the link to yahoosucks. You don't need any special program.
+
+#### Admins on IRC
+
+People with an @ in front of their names are admins and have more authority than others. 
 
 ### Email
 
 ...add...
 
-### Wiki
+### Twitter
 
-https://www.archiveteam.org/index.php?title=Yahoo!_Groups
+Jason Scott, who coordinates with Archive team, can be found on Twitter @[textfiles](https://twitter.com/textfiles) 
 
 ### Nomination form
 
-https://tinyurl.com/savegroups
+If you know of a **public** group that you would like to be included in the project, you can request it be added to the list by [filling this simple form](https://docs.google.com/forms/d/1Z-lODnyXsE2kiu8uL01L--10nDq3b_lowT88aB447-E/viewform?edit_requested=true). There is no guarentee it will happen but the chances are good. 
 
 ## Restricted (private) groups
 
@@ -64,6 +85,12 @@ photos / files / attachments / events / polls / links
 
 Not at the moment. 
 
+## Opting out of archiving
+
+### Do we have an official line on whether/who/how people will be able to ask for public groups not to be saved / not to be posted publicly?
+
+...
+
 ## About yahoo accounts
 
 You will need a yahoo account to do any archiving. 
@@ -72,26 +99,9 @@ If you want to create a new yahoo email address at signup, you will need to prov
 
 Using an existing email address bypassess the phone number requirement. 
 
-It is possibel that as archiving gets underway, individual accounts will get banned if Yahoo notices their activity. For this reason we reccomend that you 
+It is possible that as archiving gets underway, individual accounts will get banned if Yahoo notices their activity. For this reason we reccomend that you 
 
 - do not use your actual email address
 - do not plan on conducting a large amount of scraping with a single account (don't put all your eggs in one basket) 
 
-Here are some places wher eyou can get disposible email addreses: 
-
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+You can get disposible email addresses at [GuerrillaMail](https://www.guerrillamail.com/inbox) or create aliases at [AnonAddy](https://anonaddy.com/). 
