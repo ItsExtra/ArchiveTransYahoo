@@ -2,12 +2,6 @@
 
 Hi, please kindly enable these extension on the above site:
 
-https://www.mediawiki.org/wiki/Extension:VisualEditor
-https://www.mediawiki.org/wiki/Extension:Comments
-https://www.mediawiki.org/wiki/Extension:MediaWikiChat
-https://www.mediawiki.org/wiki/Extension:SubPageList3
-https://www.mediawiki.org/wiki/Extension:WikiForum
-
 
 https://www.mediawiki.org/wiki/Extension:OATHAuth
 https://www.mediawiki.org/wiki/Extension:ManageWiki
@@ -36,15 +30,4 @@ however it is not (see attached screenshot). Apologies if I am doing the wrong t
 {F1081875}
 
 
-
-
-
-
-
-
-
-
-
-
-
-Extension available via Special:ManageWiki
+https://archivetransyahoo.miraheze.org/wiki/Special:ManageWiki/extensions
