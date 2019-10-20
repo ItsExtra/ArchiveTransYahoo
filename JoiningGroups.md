@@ -16,3 +16,6 @@ Text of join request must me 200 characters long max:
 - https://groups.yahoo.com/neo/groups/ftmsurgeryinfo/info
 - https://groups.yahoo.com/neo/groups/boston-area-trans-support/info
 
+
+
+> I would like to discuss with the owners and members of this group the possibility of archiving it before it is erased from existence, which will happen on Dec 14, 2019. I have quickly thrown together a rough couple of pages about this here: https://archivetransyahoo.noblogs.org/
