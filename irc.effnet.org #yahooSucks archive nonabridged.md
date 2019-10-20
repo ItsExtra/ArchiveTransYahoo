@@ -1,3 +1,7 @@
+
+
+
+
 [01:23] == Solanum [webchat@31.171.154.211] has joined #yahoosucks
 
 [01:26] == sotty [webchat@ip4d1591ed.dynamic.kabel-deutschland.de] has quit [Ping timeout: 260 seconds]
@@ -1237,3 +1241,1393 @@
 [18:22] <thuban> betamax: i am willing to solve captchas
 
 [18:22] <Raccoon> need to create a captcha crypto currency
+
+[18:24] <Raccoon> might distract china for long enough they forget about hong kong
+
+[18:24] == manjaro-u [~manjaro-u@kti.a12.18.ktis.net] has joined #yahoosucks
+
+[18:24] <@betamax> thuban: that will be incredibly helpful
+
+[18:24] <@betamax> tapedrive and I will be doing some (hopefully final) testing tonight / tomorrow, then we'll open it up
+
+[18:26] <balrog> betamax: what are the plans for the archival scripts we'll go with?
+
+[18:26] <Raccoon> i'd give it a whirl. maybe some scoring system or earn game credits in a turn based strategy
+
+[18:27] <@betamax> if it's more than just a couple people I'll make a scoreboard
+
+[18:27] <thuban> betamax: has poll support been added / is stuff merged?
+
+[18:27] <@betamax> and a list at the end: group <x> was only saved because of the work of <y.
+
+[18:27] <thuban> also, i thought of something wrt the raw / html messages issue
+
+[18:27] <@betamax> nico_32_: ^^ question about poll support
+
+[18:28] <@betamax> balrog: 99% sure we'll be using the script being worked on by nico_32_ for the more complex stuff
+
+[18:29] <@betamax> although the warrior will likely just stick to downloading public messages only, and won't need a complex script
+
+[18:29] <thuban> either a "yes, save both" flag or a "smart" setting can just check the  raw bytes for \ef\bf\bd and download message bodies only if there are  actually non-ascii characters
+
+[18:30] <thuban> i think the affected case will be uncommon (over all groups, anyway)
+
+[18:32] <thuban> unrelatedly, again: someone has asked whether there's an announcement page they could link to
+
+[18:32] <thuban> i think the closest thing is the nominations form, but could someone  edit the introduction to add a link to the yahoo shutdown message?
+
+[18:33] == steeph [webchat@p4FC75902.dip0.t-ipconnect.de] has joined #yahoosucks
+
+[18:33] <steeph> Hi!
+
+[18:33] <@betamax> thuban: an "announcements page"?
+
+[18:33] <@betamax> if it's a Yahoo "announcement", then link to Yahoo help page
+
+[18:34] <@betamax> otherwise probably link to the wiki
+
+[18:34] <@betamax> steeph: hi!
+
+[18:35] <steeph> I thought I could help saving YG content. I'm trying to install the python script.
+
+[18:35] <@betamax> steeph: which one?
+
+[18:35] <steeph> https://github.com/csaftoiu/yahoo-groups-backup
+
+[18:35] <@betamax> work on the scripts is very much in progress, so things are changing all the time
+
+[18:35] <steeph> "rainbowstream 1.3.7 has requirement requests==2.5.3, but you'll have requests 2.10.0 which is incompatible."
+
+[18:35] <steeph> Should I ignore that?
+
+[18:36] <@betamax> ehh, I'd actually recommend a different script
+
+[18:36] <steeph> good
+
+[18:36] <@betamax> nico_32_ is putting together one that can do everything (files / photos / polls / links ...)
+
+[18:36] <steeph> Nice!
+
+[18:37] <@betamax> it is at https://github.com/nsapa/yahoo-group-archiver/
+
+[18:37] <steeph> That does sound better.
+
+[18:37] <@betamax> although it is still work in progress
+
+[18:37] <@betamax> and changes are being merged all the time
+
+[18:37] <@betamax> if you want to help find bugs, issues, great!
+
+[18:38] <@betamax> otherwise it may be best to wait a couple days until we have a more production-ready one
+
+[18:40] <steeph> So using it now isn't productive until it's improved?
+
+[18:41] <@betamax> probably not
+
+[18:42] <@betamax> unless you want to help find bugs that may otherwise cause dataloss corruption when we start using the script intensively
+
+[18:42] <steeph> Alright, thanks! I'll try it out.
+
+[18:43] <thuban> betamax: the person who asked me about a page they could link others to also asked 'what is archiveteam', so it would be nice to have a psa  that's less technical and assumes less context than the wiki page
+
+[18:43] <steeph> I'm not really a YG user. Any recommendations what to target for now?
+
+[18:44] == thuban [~weechat@c-73-211-96-74.hsd1.il.comcast.net]
+
+[18:44] == realname : weechat
+
+[18:44] == channels : #yahoosucks 
+
+[18:44] == server  : efnet.portlane.se [Portlane EFnet Server (IPv4, IPv6 & SSL)]
+
+[18:44] == End of WHOIS
+
+[18:44] <@betamax> steeph: yes
+
+[18:44] <thuban> and i think the nominations form would be a good candidate (one click  to submit stuff, contact info right there) but the intro could use a  couple of links
+
+[18:44] <Solanum> @thuban that is a very thoughtful idea
+
+[18:44] <@betamax> steeph: find historically significant groups and nominate them with the form
+
+[18:44] <thuban> shall i just request edit access?
+
+[18:45] <@betamax> or just paste what you want here, and I'll change it
+
+[18:45] <@betamax> steeph: https://tinyurl.com/savegroups <-- nominations form
+
+[18:46] <thuban> betamax: i've sent a request, you don't want me drafting prose in an irc channel :)
+
+[18:46] == scruss [webchat@206-248-137-140.dsl.teksavvy.com] has joined #yahoosucks
+
+[18:48] <@betamax> thuban: I've added you now
+
+[18:48] <@betamax> in case you wonder why that form is owned by someone called "Ban Krupcy",
+
+[18:48] <@betamax> I have lots of disposable gmail accounts
+
+[18:49] <@betamax> and a bad sense of humour
+
+[18:49] <thuban> a good policy
+
+[18:49] <Solanum> Since we're kind of on the topic
+
+[18:49] <Solanum> does anyone know a way to SMS confirm a yahoo account without giving  out actual mobile phone number? The MySudo VOIP I usually use isn't  being accepted. 
+
+[18:50] <@betamax> order lots and lots of free non-topped up pay-as-you-go sims?
+
+[18:50] <@betamax> that's what I do
+
+[18:50] <Raccoon> might be able to use a google voice phone number
+
+[18:51] <Solanum> In canada i think it's a lot less cheap to do that than other places
+
+[18:51] <@betamax> or use an existing email account, then it doesn't need a phone
+
+[18:51] <thuban> "Adding hyperlinks on forms is currently not supported but you can add the web URL directlyto your forms." lol
+
+[18:51] <Solanum> I did buy a second phone for this purpose but haven't go new SIM yet. I think it'll cost $40 or so
+
+[18:52] <Solanum> But it mgiht actually be impossible to do anon
+
+[18:52] <@betamax> huh, in the UK I can just request non-topped up pay-as-you-go SIMs, and they don't need credit to receive verification texts
+
+[18:52] <Raccoon> how anon
+
+[18:52] <Solanum> I had heard you could get anon at 7 11 but when I asked they said they'd need my ID etc
+
+[18:52] <Solanum> For this purpose.. doesn't have to be TOO anon I guess. I just resent having to give anyone my ID
+
+[18:53] <Solanum> trans people are a bit cagey about IDs.
+
+[18:53] <Raccoon> i just mean create a Google Voice phone number attached to your mobile. Then verify Yahoo with it. Then delete it.
+
+[18:53] <Solanum> like not all my ID matches exactly
+
+[18:54] <Solanum> Oh I see. Maybe hat'll work let me try.
+
+[18:54] <@betamax> I have used temporary email services in the past
+
+[18:54] <Solanum> yahoo will take google voice you think?
+
+[18:54] <@betamax> https://www.guerrillamail.com/inbox
+
+[18:54] <Raccoon> most everything takes my google voice
+
+[18:54] <@betamax> make a new email, then use that to sign uip to Yahoo, you will not need a phone number
+
+[18:54] <@betamax> but make sure the email you use has ONLY letters and numbers in it
+
+[18:55] <Raccoon> might depend on geoip. if you have a nigerian ip address, you have to submit dna
+
+[18:55] <@betamax> because Yahoo groups doesn't like weird emails
+
+[18:55] <Solanum> I have VPN I can be anywhere
+
+[18:56] <Solanum> OH If you click "use your own email address" it doens't ask for a phone#
+
+[18:56] <Solanum> doh
+
+[18:59] <nico_32_> ok my branch now grab group descriptions & statistics
+
+[18:59] <nico_32_> now doing the polls
+
+[19:00] <steeph> I've created a new account with an @yahoo.com address. What's my  username to be used with the script? The part before the @ doesn't seem  to work.
+
+[19:00] <nico_32_> steeph: use the cookie method, it work
+
+[19:00] <steeph> k
+
+[19:05] == tim_balle [webchat@c-73-56-102-102.hsd1.fl.comcast.net] has joined #yahoosucks
+
+[19:07] == qwebirc40 [webchat@c-73-56-102-102.hsd1.fl.comcast.net] has joined #yahoosucks
+
+[19:07] <steeph> SO, I'm fetching messages. What sort of things should I report?
+
+[19:07] <steeph> "** Yahoo says this message has attachments, but I can't find any!"
+
+[19:08] <thuban> done editing. acceptable PSA, guys?
+
+[19:10] == tim_balle [webchat@c-73-56-102-102.hsd1.fl.comcast.net] has quit [Ping timeout: 260 seconds]
+
+[19:11] <nico_32_> steeph: yes, sometime Yahoo doesn't have the file
+
+[19:12] <nico_32_> when you go to the message with the browser, you don't see any attachment
+
+[19:12] <nico_32_> poll api https://groups.yahoo.com/api/v1/groups/Polls/polls?status=DISABLED&orderBy=DATECREATED&sortOrder=DESC&start=21&count=10&chrome=raw&tz=America%2FLos_Angeles&ts=1571512212554
+
+[19:12] == qwebirc40 [webchat@c-73-56-102-102.hsd1.fl.comcast.net] has quit [Quit: Page closed]
+
+[19:12] <Solanum> Is there an email address you could add to the page as well as IRC and twitter?
+
+[19:12] <Solanum> @thuban
+
+[19:13] <thuban> main wiki page suggests archiveteam@archiveteam.org--does anyone actually man that?
+
+[19:15] <steeph> https://pastecode.xyz/view/b3fbd9e3
+
+[19:16] <Solanum> An email address would be a really good idea because most people aren't framiliar with IRN and many people are not on twitter
+
+[19:17] <thuban> agreed... but only presuming someone will, in fact, read and answer that email; i don't know who if anyone has access to it
+
+[19:17] <Solanum> Send an email and see if anyone answers. ;) 
+
+[19:17] <thuban> lol, i guess that's one way
+
+[19:18] <Solanum> My other question as an outsider reading it is: once this has been colelcted, where will it go?
+
+[19:19] <thuban> mm, good point. i'll mention the internet archive (i assume that is the plan)
+
+[19:22] <Solanum> If a group is private are you able to save it in some way that doens't involve posting for the whole internet?
+
+[19:22] <Solanum> Or are you focussed on public only as a matter of priority?
+
+[19:23] <thuban> public (or private-with-admin-consent) as a matter of practicality but also ethics
+
+[19:23] <thuban> that said once there's a canonical script i'll be writing a tutorial on how to run it for groups you're a member of, and the plan is to point  members of groups with awol admins, etc, to that
+
+[19:31] <Solanum> @thuban sorry what is the meanign of the word "canonical" in this context?
+
+[19:31] <thuban> a finished version incorporating everyone's changes which supports everything we want to support
+
+[19:32] <Solanum> thank you
+
+[19:32] <thuban> almost everything is supported right now, but it's in a few different branches which need to be merged back together
+
+[19:32] <satoshi> very old groups had their attachments wiped
+
+[19:59] <Lord_Nigh> are any of the fork maintainers in here? i know philpem is, anyone else?
+
+[19:59] <Lord_Nigh> stuff needs to be PR'ed, i think
+
+[20:01] == Jonas____ [webchat@89.179.15.109.rev.sfr.net] has quit [Ping timeout: 260 seconds]
+
+[20:11] == thuban [~weechat@c-73-211-96-74.hsd1.il.comcast.net] has quit [Read error: Connection reset by peer]
+
+[20:12] == thuban1 [~weechat@c-73-211-96-74.hsd1.il.comcast.net] has joined #yahoosucks
+
+[20:12] == thuban1 has changed nick to thuban
+
+[20:15] == MaximeleG [~Thunderbi@lfbn-1-12084-254.w90-92.abo.wanadoo.fr] has joined #yahoosucks
+
+[20:22] <nico_32_> Lord_Nigh: i am nsapa
+
+[20:23] <nico_32_> and my fork is now grabbing Polls (@betamax)
+
+[20:27] == sotty [webchat@ip4d1591ed.dynamic.kabel-deutschland.de] has joined #yahoosucks
+
+[20:40] <@betamax> excellent!
+
+[20:41] <@betamax> yes, canonical also in the sense that it has a standard output format
+
+[20:41] <@betamax> and therefore (ideally) any tools that are developed later to process the data will work across all archives
+
+[20:44] <teovall> i'm thinking we should save a log with date, time, script version  (maybe commit hash & modified files), relevant platform information, and an errors or abnormalities found during retreival and include that  with each groups archive
+
+[20:52] == MaximeleG [~Thunderbi@lfbn-1-12084-254.w90-92.abo.wanadoo.fr] has quit [Quit: MaximeleG]
+
+[20:55] == licensed [~licensed@45.173.102.168] has joined #yahoosucks
+
+[21:04] <thuban> i'm trying to add html fetch for those encode errors, but i'm having trouble running the script at all--i get read timeouts
+
+[21:04] <thuban> just scraping messages shouldn't require any auth at all, should it?
+
+[21:07] <nico_32_> no, it can require auth
+
+[21:08] <nico_32_> depend on the group permission
+
+[21:11] <thuban> for public groups, i mean
+
+[21:11] <thuban> anyway i just tried it with auth and had the same problem
+
+[21:11] <@betamax> are you running it as python 2
+
+[21:12] <thuban> concatenative works; cienciaficcion times out--can anyone replicate?
+
+[21:12] <thuban> yes
+
+[21:12] <thuban> (both work in browser)
+
+[21:14] == licensed [~licensed@45.173.102.168] has quit [Quit: licensed]
+
+[21:22] <Solanum> Do you folks think it's likely anyone else is working on this project,  or is the Archive Team the main group for this sort of thing?
+
+[21:23] <Solanum> I'm trying to write about this and want to make sure not to miss something
+
+[21:34] <thuban> Solanum: there are some private groups but i don't think anything as centralized. check @textfiles' twitter feed
+
+[21:35] <thuban> also, it seems that it won't be possible to reliably do smart detection of encoding errors; some messages have them in both the raw and non-raw endpoints. (ex: https://groups.yahoo.com/api/v1/groups/turkmusikisi/messages/1000)
+
+[21:36] == thuban [~weechat@c-73-211-96-74.hsd1.il.comcast.net]
+
+[21:36] == realname : weechat
+
+[21:36] == channels : #yahoosucks 
+
+[21:36] == server  : irc.colosolutions.net [Colosolutions, Inc. - Orlando, FL]
+
+[21:36] == End of WHOIS
+
+[21:36] <thuban> probably this will vary based on the suckitude of the email/webmail client the poster was using.
+
+[21:37] <thuban> (on the bright side, a lot of messages have special characters properly escaped with quoted-printable or w/e)
+
+[21:38] <thuban> (and as such are unscathed in the raw endpoint)
+
+[21:49] <balrog> nico_32_: I'm reluctant to run it without having a delay feature
+
+[21:52] <Solanum> Are youse affiliated with whomeevr created this? https://docs.google.com/document/d/17fnAilYIKs08IxvgucJgPBJ3JUnSZNct_BGGKYnsidY/edit#
+
+[21:55] <thuban> no, but it looks like we should coordinate with them
+
+[21:56] <Solanum> source: https://www.reddit.com/r/DataHoarder/comments/dipcj6/all_of_yahoo_groups_is_being_rm_rfd_december_14/f4994je/
+
+[21:58] <balrog> that's this person https://twitter.com/morgandawn6/status/1185254815065985024
+
+[22:00] <thuban> betamax: i'm just going to remove the sketchy unescaping entirely. it'll be easier to handle it in post-processing
+
+[22:01] <thuban> (html bodies can include html entities of non-ascii characters, which  aren't valid per email RFC, which the email module is bitchy about...)
+
+[22:01] <balrog> oh the google doc has an email
+
+[22:03] <Solanum> The form has a mandetory feild for "fandom" so I guess they ahve a narrow scope
+
+[22:03] <Solanum> Maybe the Archive Team wiki could list special interest projects like theirs and mine? Would that be the most appropriate spot or somewhere else?
+
+[22:07] <nico_32_> balrog: i run it for groups with 9k messages 
+
+[22:07] <nico_32_> no issue
+
+[22:07] <balrog> nico_32_: I have had issues with larger groups; I think others here have had issues as well?
+
+[22:08] <balrog> they IP-ban for 24 hours
+
+[22:09] <@betamax> some IPs don't get banned
+
+[22:09] <@betamax> institutional IPs
+
+[22:09] == MoffT [webchat@cha91-1-88-178-99-52.fbx.proxad.net] has joined #yahoosucks
+
+[22:09] <balrog> betamax: huh interesting
+
+[22:09] <balrog> I wonder which institutional IPs
+
+[22:09] <@betamax> I've done 200,000 with no rate limiting and not yet been banned
+
+[22:09] == mccz [webchat@45.12.220.227] has joined #yahoosucks
+
+[22:09] <balrog> bc as I remember right IPs from my university (which has two /16s) would get banned
+
+[22:10] <@betamax> I couldn't possible say :)
+
+[22:10] <@betamax> *possibly
+
+[22:10] == mccz [webchat@45.12.220.227] has quit [Client Quit]
+
+[22:10] <nico_32_> # number of seconds to wait before trying again
+
+[22:10] <nico_32_> HOLDOFF=10
+
+[22:10] <balrog> that's for retries after an error, right?
+
+[22:10] <balrog> not between any two requests
+
+[22:10] <nico_32_> yes
+
+[22:11] <nico_32_>               except requests.exceptions.HTTPError as err:
+
+[22:11] <nico_32_>                 print "ERROR: can't download attachment, try %d: %s" % (i, err)
+
+[22:11] <nico_32_>                 time.sleep(HOLDOFF)
+
+[22:11] <balrog> hmm or does requests keep the http connection open and reuse?
+
+[22:11] <nico_32_> also if there are a read error
+
+[22:11] <nico_32_>       except requests.exceptions.ReadTimeout:
+
+[22:11] <nico_32_>         print "ERROR: Read timeout, retrying"
+
+[22:11] <nico_32_>         time.sleep(HOLDOFF)
+
+[22:12] <teovall> delays should be easy to add... this is how the other script does it... https://github.com/rmcardle/yahoo-groups-backup/blob/master/yahoo_groups_backup/scraper.py#L176
+
+[22:12] <nico_32_> pipelining ?
+
+[22:12] <balrog> no, persistence or connection reuse
+
+[22:12] <balrog> or keep-alive
+
+[22:12] <balrog> it's possible yahoo doesn't block as quickly if you do that, not sure
+
+[22:13] <nico_32_> connection reuse in http is pipelining 
+
+[22:13] <nico_32_> and it is deprecated 
+
+[22:14] <balrog> I didn't think so — I thought pipelining was sending more requests even if the response for the previous request was not received
+
+[22:15] <nico_32_> no, pipelining is keeping the connection to the server open
+
+[22:15] <nico_32_> and sending request after the last response have been received
+
+[22:16] <balrog> https://brianbondy.com/blog/119/what-you-should-know-about-http-pipelining
+
+[22:17] <balrog> apparently requests does automatic keep-alive: https://requests.kennethreitz.org//en/latest/user/advanced/#keep-alive
+
+[22:22] <nico_32_> Connection: keep-alive
+
+[22:22] <thuban> nico_32_: i've put in a pullreq for you
+
+[22:22] <nico_32_> yeah ?
+
+[22:22] <nico_32_> looking
+
+[22:22] <thuban> (that retry pattern should be wrapped properly, but i think one of the other branches does it)
+
+[22:23] <thuban> uh, don't merge yet, lemme fix a typo and push --force
+
+[22:25] <thuban> done
+
+[22:27] <nico_32_> unescape_html is used in archive_links & archive_photos & archive_files
+
+[22:28] <nico_32_> the code use it in these function to create a "valid" unix filename
+
+[22:28] <balrog> nico_32_: why would I get "login failed"?
+
+[22:28] <balrog> are special chars in password not supported?
+
+[22:29] <nico_32_> i don't the password authentification
+
+[22:29] <nico_32_> only the cookie auth
+
+[22:29] <thuban> nico_32_: oh, right
+
+[22:29] <nico_32_> probably should remove the password auth
+
+[22:29] <nico_32_> since it seem to work nowhere
+
+[22:29] <thuban> is there some special reason that needs to be specifically those  characters, or can we use HTMLParser's unescape and call it a day?
+
+[22:30] <nico_32_> no special reason i can see
+
+[22:30] <nico_32_> just keep the swap of / to _
+
+[22:30] <nico_32_> we keep the right name in the json anyway
+
+[22:33] == MoffT [webchat@cha91-1-88-178-99-52.fbx.proxad.net] has quit [Quit: Page closed]
+
+[22:33] <nico_32_> hum i wonder
+
+[22:33] <thuban> albums, photos and links have the / _ replace, files don't
+
+[22:33] <thuban> should they?
+
+[22:33] <balrog> ah ok
+
+[22:34] <balrog> nico_32_: I thought so - which means the readme is incorrect :)
+
+[22:35] <nico_32_> thuban: they shouldn't
+
+[22:35] <nico_32_> but keeping it isn't wrong
+
+[22:35] <balrog> nico_32_: -ct and -cy?
+
+[22:35] <nico_32_> yes
+
+[22:36] <nico_32_> i have updated the README for cookie auth
+
+[22:36] <nico_32_> :)
+
+[22:36] <balrog> yeah, asking bc I got an auth error
+
+[22:36] == sotty [webchat@ip4d1591ed.dynamic.kabel-deutschland.de] has quit [Quit: Page closed]
+
+[22:36] <nico_32_> thuban: only forbidden characters in unix filename are / & \0
+
+[22:36] <nico_32_> i don't believe we will get \0
+
+[22:37] <balrog> oh I see why
+
+[22:37] <thuban> nico_32_: is there no chance of getting / ?
+
+[22:38] <nico_32_> the current UI reject /
+
+[22:38] <thuban> ok
+
+[22:39] <nico_32_> but add the swap anyway
+
+[22:39] <teovall> shouldn't this be cross platform though? windows and macOS have more stringent filename requirements
+
+[22:39] <nico_32_> maybe there is an old group with file created on MacOS classic
+
+[22:40] <thuban> hm... i want to test these changes, but i'm getting 307'd on the files request
+
+[22:40] <balrog> thuban: macOS allows / in GUI and allows : in CLI and maps one to the other
+
+[22:40] <teovall> i mean, when the script is saving files... if a filename has a colon : for example, the file won't save on windows
+
+[22:41] <thuban> i just joined the group, i can see stuff in browser, i reexported my  cookies, but script thinks it doesn't have read permission
+
+[22:43] <nico_32_> look like the scripts is already broken
+
+[22:43] <nico_32_> for foldername "AAA / AAA"
+
+[22:43] <thuban> ?
+
+[22:44] <balrog> ** Yahoo says this message has attachments, but I can't find any!
+
+[22:44] <balrog> I get this a lot
+
+[22:44] <nico_32_> thuban: you sure you have the right Y & T ?
+
+[22:45] <nico_32_> T is very big
+
+[22:45] <thuban> nico_32_: yep
+
+[22:45] <balrog> and yeah the attachments are busted in web-ui too
+
+[22:47] <thuban> i tried logging out and back in but no change
+
+[22:48] <thuban> pushed the fix anyway... see if it works for you? i have to go for a while
+
+[22:48] <nico_32_> ok looking
+
+[22:55] == britm0b [~maxmo@pool-108-18-219-231.washdc.fios.verizon.net] has joined #yahoosucks
+
+[22:56] == britm0b1 [~maxmo@pool-108-18-219-231.washdc.fios.verizon.net] has joined #yahoosucks
+
+[22:56] == britm0b [~maxmo@pool-108-18-219-231.washdc.fios.verizon.net] has quit [Client Quit]
+
+[22:56] == britm0b1 [~maxmo@pool-108-18-219-231.washdc.fios.verizon.net] has quit [Read error: Connection reset by peer]
+
+[22:58] <nico_32_> UnicodeEncodeError: 'ascii' codec can't encode characters in position 13952-13954: ordinal not in range(128)
+
+[22:59] <nico_32_> you know what
+
+[23:02] <nico_32_> let's remove the whole eml things
+
+[23:02] <nico_32_> there are dragon in encoding/decode 
+
+[23:02] <nico_32_> just write the whole mess into raw file
+
+[23:03] <thuban> eml is walked later
+
+[23:03] <thuban> oh, i guess it's only for reattach... looks like that could be done in post-processing?
+
+[23:04] <nico_32_> yes
+
+[23:04] <nico_32_> going to remove the whole eml mess
+
+[23:04] <nico_32_> will be easier
+
+[23:12] <balrog> betamax, nico_32_: yeah, I'm around 24000 messages into a group and no bans yet, probably the keep-alive is preventing it
+
+[23:13] <balrog> oh and it barfed on a 500
+
+[23:13] == tech234a [uid352403@id-352403.stonehaven.irccloud.com] has joined #yahoosucks
+
+[23:13] <balrog> the 500 happens in yahoo web-ui too
+
+[23:16] <thuban> i just wrote morgan dawn and fanlore to see if we can coordinate, will report back
+
+[23:16] <thuban> but i am really for real going now
+
+[23:19] <@arkiver> odemgi: we'll get this one running, no worries :)
+
+[23:20] <odemgi> eta?
+
+[23:20] <@arkiver> I was thinking after everything goes read-only
+
+[23:20] <balrog> nico_32_: thoughts about dealing with this 500?
+
+[23:22] <nico_32_> 500 every time?
+
+[23:22] <balrog> yep, on that specific message
+
+[23:23] <balrog> and "Error loading" from webui
+
+[23:23] <nico_32_> ignore it after 10 retry
+
+[23:23] <nico_32_> and write an error log with its id
+
+[23:23] <nico_32_> so we know what happened
+
+[23:23] <teovall> are 500 deleted messages or something?
+
+[23:24] <teovall> and good call on removing the eml code... simplifies things a lot
+
+[23:26] <balrog> teovall: they might be
+
+[23:26] <nico_32_> code in my repo is currently broke
+
+[23:26] <nico_32_> fix in progress
+
+[23:27] <@arkiver> nico_32_: what special status codes do we have
+
+[23:27] <@arkiver> only 500?
+
+[23:28] <balrog> lemme paste
+
+[23:28] <balrog> https://gist.github.com/d235j/9b6f0b167c1485d5938e696a9caebcdb
+
+[23:31] <teovall> hmm... i guess missing messages give 404 not 500
+
+[23:33] == clkw [webchat@187.0.184.119] has joined #yahoosucks
+
+[23:36] <@arkiver> odemgi: so that would be October 28, I'd say we start October 29
+
+[23:36] <@arkiver> will get the scripts ready then
+
+[23:37] <clkw> hello
+
+[23:37] <@arkiver> hi
+
+[23:37] <clkw> how can I help?
+
+[23:37] <clkw> archive team warrior could be used for yahoo groups?
+
+[23:37] <@arkiver> well wait and run a Warrior when the project is running
+
+[23:37] <@arkiver> yes
+
+[23:37] <@arkiver> project will be running October 29th
+
+[23:38] <clkw> arkiver: nice, thanks
+
+[23:38] <@arkiver> :)
+
+[23:38] <odemgi> arkiver, sound 
+
+[23:40] == clkw [webchat@187.0.184.119] has quit []
+
+[23:43] <nico_32_> ok the code is now simpler for message
+
+[23:43] <nico_32_> we don't mess with eml anymore
+
+[23:43] <nico_32_> just written the raw json
+
+[23:50] == scruss [webchat@206-248-137-140.dsl.teksavvy.com] has quit [Quit: Page closed]
+
+[23:51] <nico_32_> balrog: is this group public ?
+
+[23:52] <balrog> nico_32_: no, it's restricted
+
+[23:53] <nico_32_> :(
+
+[23:54] <nico_32_> could you give me your cookie in private?
+
+[23:54] <nico_32_> (update the code, I removed the whole freaky eml things)
+
+[23:55] <balrog> just did, it will still thrown an HTTP 500 though
+
+[23:55] <balrog> throw*
+
+[00:33] == sotty [webchat@ip4d1591ed.dynamic.kabel-deutschland.de] has joined #yahoosucks
+
+[00:39] == asdf [webchat@c-24-21-236-69.hsd1.or.comcast.net] has joined #yahoosucks
+
+[00:40] <@dxrt> nico_32_: I keep getting crashes scraping internationalspacestation see https://pastebin.com/raw/33FHrVxV
+
+[00:42] <nico_32_> hum
+
+[00:42] <nico_32_> that mean that this message doesn't have an html message body
+
+[00:47] <nico_32_> could you retry with the current version ?
+
+[00:48] <@dxrt> yup, running now.
+
+[00:50] == bvanevery [webchat@172.85.243.158] has joined #yahoosucks
+
+[00:51] <bvanevery> I'm trying to figure out how to archive my mailing lists.
+
+[00:51] <bvanevery> and to migrate one of them somewhere
+
+[00:51] <nico_32_> hi
+
+[00:52] <nico_32_> there are 3 python archiver that can grab every email
+
+[00:52] <bvanevery> so I've read, but I've not seen much discussion of people actually using them?
+
+[00:52] <bvanevery> maybe I need to go to the software lists themselves
+
+[00:53] <nico_32_> mine works on the group I know
+
+[00:53] <nico_32_> i am fixing the code for the rest
+
+[00:53] <bvanevery> How do you verify that you actually got emails accurately?
+
+[00:53] <balrog> usually I do spot checks on emails
+
+[00:53] <bvanevery> seems like some kind of automated match compare would be valuable
+
+[00:55] <bvanevery> well I'll try your stuff then in the next few days, see how it goes
+
+[00:55] <bvanevery> gotta go now
+
+[00:55] <balrog> feel free to come back if you need help
+
+[00:57] <balrog> nico_32_: btw the raw endpoint still doesn't work right for unicode
+
+[00:57] <balrog> https://groups.yahoo.com/api/v1/groups/cienciaficcion/messages/89704/raw
+
+[00:58] <balrog> vs
+
+[00:58] <balrog> https://es.groups.yahoo.com/neo/groups/cienciaficcion/conversations/messages/89704
+
+[00:58] <balrog> I think betamax brought this up before
+
+[00:58] <balrog> you get the unicode replacement character
+
+[00:58] <balrog> (ef bf bd)
+
+[00:59] == sotty [webchat@ip4d1591ed.dynamic.kabel-deutschland.de] has quit [Quit: Page closed]
+
+[00:59] <balrog> also vs
+
+[00:59] <balrog> https://groups.yahoo.com/api/v1/groups/cienciaficcion/messages/89704
+
+[00:59] == bvanevery [webchat@172.85.243.158] has quit [Ping timeout: 260 seconds]
+
+[00:59] <balrog> this means we have to capture both /raw and non-/raw
+
+[01:00] <balrog> for each message
+
+[01:02] <nico_32_> we are capturing raw and not raw
+
+[01:02] <nico_32_> we write the raw json and html body
+
+[01:02] <balrog> there's non-raw json too apparently
+
+[01:02] <balrog> if you leave /raw off the API URK
+
+[01:02] <balrog> URL*
+
+[01:03] <balrog> and that has proper unicode
+
+[01:03] <balrog> or you mean we're writing the body of that?
+
+[01:03] <balrog> imo we should keep both JSON files for each message
+
+[01:04] <nico_32_> we are doing this currently
+
+[01:04] <nico_32_>     with file("%s_raw.json" % (id,), 'wb') as f:
+
+[01:04] <nico_32_>       f.write(json.dumps(raw_json, indent=4))
+
+[01:04] <nico_32_> 		  with file("%s.html" % (id,), 'w') as f:
+
+[01:04] <nico_32_> 		    f.write(html_json['messageBody'].encode('utf-8'))
+
+[01:04] <balrog> I see what you mean... yeah
+
+[01:04] <nico_32_> raw_json come from the raw endpoint
+
+[01:04] <balrog> and html_json comes from the non-raw endpoint
+
+[01:04] <balrog> though we're not writing the full json, just the html file
+
+[01:04] <balrog> or data rather
+
+[01:04] <nico_32_> html_json come from the non-raw
+
+[01:05] <nico_32_> there are not much in the non-raw endpoint
+
+[01:06] <nico_32_> but okay I can write the whole object
+
+[01:06] <teovall> the non-raw endpoint has the attachment info though
+
+[01:07] <balrog> imo we should preserve more rather than less — maybe not full  WARC-level stuff (WARC dumps HTTP headers and such), but definitely API  responses in full
+
+[01:09] <Solanum> I have made a quick webpage for my specific project, if anyone wants to look at it and let me know of any feedback: https://archivetransyahoo.noblogs.org
+
+[01:09] <nico_32_> true
+
+[01:11] == testi [webchat@p4FF8225C.dip0.t-ipconnect.de] has quit [Quit: Page closed]
+
+[01:13] <teovall> good stuff Solanum... found a typo here though... "For archives which  are created but held privately, figure out a way that information about  the whereabouts of these can be share with anyone in the future who  might require them"... share should be shared
+
+[01:15] <Solanum> thank you fixed
+
+[01:17] <teovall> thanks for taking that on and getting some notice about it... i think  its an important thing to save... both for the trans community and for  historical sake
+
+[01:18] <Solanum> I hope I am able to a) track down those with access, and b) convince them to let me into the groups.
+
+[01:19] <teovall> i hope so too
+
+[01:20] <nico_32_> going to sleep
+
+[01:20] <teovall> goodnight
+
+[01:20] <Solanum> gn zzzzz
+
+[01:20] <nico_32_> let's hope my master branch isn't broken :)
+
+[01:20] <Raccoon> is the Ya!hoover sucking yet?
+
+[01:23] == tech234a [uid352403@id-352403.stonehaven.irccloud.com] has quit [Quit: Connection closed for inactivity]
+
+[01:23] == DogsRNice [~DogsRNice@2600:1700:7480:95f0:646f:ba30:bd1:dc1a] has quit [Read error: Connection reset by peer]
+
+[01:26] <Solanum> I am a bit puzzled because search results page list different dates than individual group pages
+
+[01:26] <Solanum> for example one group says "klast activity" sometime in 2016 but the group page lists 1 or 2 posts/month until september 19
+
+[01:27] <Solanum> Sometimes the information is the same on both
+
+[01:29] <balrog> Solanum: it's *critical* you keep track of multiple contact people per group with this kind of stuff
+
+[01:30] <Solanum> sorry?
+
+[01:30] == mode/#yahoosucks [+oo balrog nico_32_] by dxrt
+
+[01:33] <@dxrt> nico_32_: Oh man, new code fixed it, however when trying a file: https://pastebin.com/raw/dKpeRVjK. Am not signed in.
+
+[01:36] <@dxrt> Got all the posts but I guess cleaner error handling on files.
+
+[01:36] <@nico_32_> yeah 
+
+[01:36] <@nico_32_> WIP
+
+[01:36] <@dxrt> cool. will keep on testing.
+
+[01:37] <@balrog> Solanum: meaning — so you don't end up with a situation where you have  data archived but can't get permission/clearance to send it to anyone.  Also — group operators need to archive their user lists
+
+[01:37] == X-Scale` [~ARM@83.223.243.222] has joined #yahoosucks
+
+[01:37] == X-Scale [~ARM@31.22.160.25] has quit [Ping timeout: 240 seconds]
+
+[01:37] == X-Scale` has changed nick to X-Scale
+
+[01:38] <@nico_32_> dxrt: you can select what you want to save
+
+[01:38] <@nico_32_> if files is disabled
+
+[01:38] <@nico_32_> links or database could works
+
+[01:39] <@nico_32_> so ./yahoo.py -l -p -i -d -c -a
+
+[01:41] <@dxrt> ok
+
+[01:53] <Solanum> @balrog I didn't understand what you were trying to say up there
+
+[01:58] <Solanum> Oh sorry nevermind I see the 2nd message
+
+[02:10] == manjaro-u [~manjaro-u@kti.a12.18.ktis.net] has quit [Read error: Operation timed out]
+
+[02:17] == X-Scale [~ARM@83.223.243.222] has quit [Ping timeout: 240 seconds]
+
+[02:22] == X-Scale [~ARM@83.223.235.119] has joined #yahoosucks
+
+[02:34] == arrow22 [~arrow22@104.128.136.46] has joined #yahoosucks
+
+[02:52] == asdf [webchat@c-24-21-236-69.hsd1.or.comcast.net] has quit [Ping timeout: 260 seconds]
+
+[03:18] <superkuh> For the nominations list, do you want the url like, https://groups.yahoo.com/neo/groups/Coronado_PST/info ?
+
+[03:24] <thuban> superkuh: yes, that's fine
+
+[03:27] <superkuh> Thanks.
+
+[03:28] == steeph [webchat@p4FC75902.dip0.t-ipconnect.de] has quit [Ping timeout: 260 seconds]
+
+[03:46] == patsen29 [webchat@CPE9050ca208cf3-CM9050ca208cf0.cpe.net.cable.rogers.com] has quit [Ping timeout: 260 seconds]
+
+[03:52] == odemgi_ [~odemgi@200116b8248e78003efdff9a16543c2b.dip.versatel-1u1.de] has joined #yahoosucks
+
+[03:54] == odemgi [~odemgi@2001:16b8:2c07:eb00:1926:999c:7d4d:1820] has quit [Ping timeout: 252 seconds]
+
+[04:00] == teovall [~teovall@li558-181.members.linode.com] has quit [Quit: Ping timeout (120 seconds)]
+
+[04:00] == qw3rty2 [~qw3rty@92.116.144.233] has joined #yahoosucks
+
+[04:00] == teovall [~teovall@li558-181.members.linode.com] has joined #yahoosucks
+
+[04:06] == Igloo_ [~Igloo@ks383241.kimsufi.com] has joined #yahoosucks
+
+[04:06] == Igloo [~Igloo@ks383241.kimsufi.com] has quit [Read error: Connection reset by peer]
+
+[04:08] == qw3rty [~qw3rty@92.116.130.10] has quit [Ping timeout: 745 seconds]
+
+[04:12] == asdf [webchat@c-24-21-236-69.hsd1.or.comcast.net] has joined #yahoosucks
+
+[04:18] == LordNigh2 [Lord_Nigh@pool-108-52-174-156.phlapa.fios.verizon.net] has joined #yahoosucks
+
+[04:18] == Raccoon [~waywerd@194.34.133.208] has quit [se.hub efnet.portlane.se]
+
+[04:18] == Deewiant [~deewiant@de1.ut.deewiant.iki.fi] has quit [se.hub efnet.portlane.se]
+
+[04:18] == Lord_Nigh [Lord_Nigh@pool-108-52-174-156.phlapa.fios.verizon.net] has quit [se.hub efnet.portlane.se]
+
+[04:19] == Raccoon [~waywerd@194.34.133.208] has joined #yahoosucks
+
+[04:19] == Deewiant [~deewiant@de1.ut.deewiant.iki.fi] has joined #yahoosucks
+
+[04:24] == Decobus [~quassel@c-76-112-88-95.hsd1.mi.comcast.net] has joined #yahoosucks
+
+[04:25] <Decobus> Just a question...when is the Archive Warrior going to start giving out Yahoo group assignments? I assume after the nomination period??
+
+[04:27] <thuban> Decobus: the archive script is not yet finalized (work needs to be  merged and tested); the warrior won't be ready until it is. the goal is  on or before the 29th
+
+[04:33] == superkuh [~superkuh@c-24-118-172-137.hsd1.wi.comcast.net] has quit [Excess Flood]
+
+[04:33] == teovall [~teovall@li558-181.members.linode.com] has quit [Read error: Connection reset by peer]
+
+[04:34] == LordNigh2 has changed nick to Lord_Nigh
+
+[04:37] == fallenoak [sid239139@id-239139.highgate.irccloud.com] has joined #yahoosucks
+
+[04:44] == superkuh [~superkuh@c-24-118-172-137.hsd1.wi.comcast.net] has joined #yahoosucks
+
+[04:45] == teovall [~teovall@li558-181.members.linode.com] has joined #yahoosucks
+
+[04:49] == vole-dev [~akovaski@99-12-190-228.lightspeed.milwwi.sbcglobal.net] has quit [Read error: Operation timed out]
+
+[04:54] == Igloo_ [~Igloo@ks383241.kimsufi.com] has quit [Read error: Connection reset by peer]
+
+[04:54] == Datechnom [~Panda@180-150-73-100.b49649.syd.nbn.aussiebb.net] has quit [Read error: Connection reset by peer]
+
+[04:57] == satoshi [~serv@201.131.87.128.wireless.tknet-ti.com.br] has quit [Ping timeout: 360 seconds]
+
+[04:58] == superkuh [~superkuh@c-24-118-172-137.hsd1.wi.comcast.net] has quit [Excess Flood]
+
+[05:02] <thuban> betamax: in re asking admins of private groups for consent--is there/will there be a dedicated archiveteam account?
+
+[05:02] == tech234a [uid352403@id-352403.stonehaven.irccloud.com] has joined #yahoosucks
+
+[05:02] <thuban> for membership, i mean
+
+[05:02] == superkuh [~superkuh@c-24-118-172-137.hsd1.wi.comcast.net] has joined #yahoosucks
+
+[05:04] <thuban> seems like a good idea for preventing (a) exposing data between  volunteers and (b) splintering access (would hate to have to contact  admins multiple times because original person went awol)
+
+[05:06] == asdf [webchat@c-24-21-236-69.hsd1.or.comcast.net] has quit [Ping timeout: 260 seconds]
+
+[05:22] == MrRadar [~pi@75-168-88-2.mpls.qwest.net] has quit [Read error: Connection reset by peer]
+
+[05:23] <Raccoon> Are there considerations for just filtering out entire groups based on type? For instance, Yahoo Groups were largely the original CraigsList, and then  there are some tens of thousands of City Freecycle groups and City  Yardsale groups
+
+[05:23] <Raccoon> not sure if it's critical to archive people cleaning out their closets
+
+[05:23] <Raccoon> complete with street addresses and phone numbers
+
+[05:24] <Solanum> Has it been possible to generate a list of allt he groups?
+
+[05:24] <Raccoon> I've made provisions to privatize / close all the groups I adminned for my local town
+
+[05:25] <Solanum> Last Freecycle group I was on totally shit show... so mcuh drama you  woudn't believe,. There were slipts and multiple groups in the city. 
+
+[05:25] <Raccoon> (100% closet clean-out groups)
+
+[05:25] <Solanum> *splits
+
+[05:26] <Raccoon> Yeah, it took some really strong and wise admins to write policy and moderate effectively
+
+[05:26] <Solanum> I don't know if weirdy cliques are of interest to future historians,  but closet cleaning was def not the primary activity being carried out
+
+[05:26] <Raccoon> No Mary Kay, no pets, etc.
+
+[05:27] <Solanum> Is therhe a list of all the groups?
+
+[05:27] <Raccoon> i don't know what Yahoo's searchability is all about
+
+[05:28] <Solanum> If there is a list of the groups would it be poeeible (in a way that  wasn't spam and didn't get anyone in trouble) to send a notice to allt  he mods notifying them of the possibility to archive?\
+
+[05:28] <Raccoon> I think that's what's going on
+
+[05:28] <Solanum> Oh ok. Cause word of mouth won't reach most people. WOUld ahve to be a bit cold cally
+
+[05:29] <Raccoon> [19:29] <@balrog> Solanum: it's *critical* you keep track of  multiple contact people per group with this kind of stuff
+
+[05:29] <Raccoon> [19:36] <@balrog> Solanum: meaning — so you don't end up with a  situation where you have data archived but can't get  permission/clearance to send it to anyone. Also — group operators need  to archive their user lists
+
+[05:29] <Solanum> huh?
+
+[05:30] <Solanum> were those supposed to be connected with the immediately previous convo? if so i have missed it
+
+[05:30] <thuban> Solanum: mind if i link to your spreadsheet of trans groups on the wiki page?
+
+[05:30] <Raccoon> just a copy/paste from earlier that seems like the intention is to contact all admins
+
+[05:30] <Solanum> Like as a demo?
+
+[05:30] <Solanum> I gave up on working in ethpad
+
+[05:30] <Raccoon> I don't have an @ before my name, so I don't have these answers
+
+[05:31] <Solanum> My actual working document is in open office, which sucks marginally less
+
+[05:32] <Solanum> What do you mean you don't ahve an @? Cna't anyone even @Racoon have an @?
+
+[05:32] <Raccoon> @ == channel operator == project manager [generally]
+
+[05:32] <Solanum> Oh does it mean they are an admin?
+
+[05:32] <Solanum> right
+
+[05:32] <Solanum> But why did you copy and paste those lines from way back just now?
+
+[05:33] <thuban> Solanum: ah, ok. please consider dumping public groups to the nomination form and private groups to the wiki section!
+
+[05:33] <Solanum> I haven't found any public groups
+
+[05:34] <Raccoon> Solanum, I thought they were contextual. if I'm wrong, my apologies
+
+[05:34] <Solanum> I don't think I will
+
+[05:34] <Solanum> *I don't think i will find any open groups
+
+[05:34] == arrow22 [~arrow22@104.128.136.46] has quit [Leaving]
+
+[05:35] <Solanum> But what I am doing works in a spreadsheet cause there are a couple of dozen.. for all of yahoo presumably you'd need a bot
+
+[05:39] <thuban> whew, just sent a LONG-ass email to the OTW people organizing their thing
+
+[05:41] <Solanum> what about if i can ask?
+
+[05:44] <teovall> OTW?
+
+[05:44] <Solanum> ya
+
+[05:45] <Solanum> i am just curious about how this is all working if you don't want or are too tired to explain it all that's fine
+
+[05:46] <thuban> otw is the organization for transformative works--basically, fanfic and fan culture, including documentation thereof; they are pretty big in  that space
+
+[05:47] <Solanum> Oh ya I know them they have a huge collection of very strange smut
+
+[05:47] <Solanum> I get the impression thatthey have $$$ because there always seem to be job posting
+
+[05:48] <Solanum> (or mayb a terrible place to work.. the other things that would explain frequent posting)
+
+[05:49] <thuban> (from what i have heard of it, a little from column a, a little from column b)
+
+[05:50] <thuban> (they do REALLY well for a mostly-volunteer non-profit, but that kind of beast is what it is)
+
+[05:51] <thuban> anyway i just found out they had a psa out about yahoo groups (a LOT of fanfic used to be published there), but it didn't mention us and its  suggestions wrt archival were more 'here's how you can' / 'here's what  somebody did' than 'we're getting everything and putting it somewhere  accessible'
+
+[05:52] <thuban> so i suggested pointing people to us
+
+[05:52] <Solanum> They probably didn't know about you
+
+[05:52] <thuban> i expect so
+
+[05:53] <Solanum> Maybe you guys can make a page to link to specific projects for certain areas, like they and i are doing
+
+[05:53] <Solanum> In case someone wants to archive all the freecycles
+
+[05:54] <thuban> we can make subpages under the wiki page for that, if the private-groups-of-interest section gets too big
+
+[05:54] <thuban> but that would be getting ahead of ourselves since it still has two entries
+
+[05:56] <Solanum> If you add this you can have 3 entires: The Project to Archive Trans Yahoo Groups
+
+[05:56] <Solanum> https://archivetransyahoo.noblogs.org
+
+[06:02] == phirephly [~kenneth@44.4.17.2] has quit [Ping timeout: 360 seconds]
+
+[06:05] <Solanum> ok enough columns and rows tonight. nice chatting. zzzzz
+
+------
+
+[06:06] <thuban> night
+
+[06:08] == phirephly [~kenneth@44.4.17.2] has joined #yahoosucks
+
+[06:08] == markedL [~markedL@c-73-115-59-250.hsd1.tx.comcast.net] has quit [Quit: The Lounge - https://thelounge.chat]
+
+[06:11] == markedL [~markedL@c-73-115-59-250.hsd1.tx.comcast.net] has joined #yahoosucks
+
+[06:12] == mode/#yahoosucks [+o markedL] by svchfoo3
+
+[06:13] == Datechnom [~Datechnom@180-150-73-100.b49649.syd.nbn.aussiebb.net] has joined #yahoosucks
+
+[06:14] == MrRadar [~pi@75-168-88-2.mpls.qwest.net] has joined #yahoosucks
+
+[06:20] == markedL [~markedL@c-73-115-59-250.hsd1.tx.comcast.net] has quit [Quit: The Lounge - https://thelounge.chat]
+
+[06:21] == markedL [~markedL@c-73-115-59-250.hsd1.tx.comcast.net] has joined #yahoosucks
+
+[06:21] == mode/#yahoosucks [+o markedL] by svchfoo3
+
+[06:21] == DFJustin [DopefishJu@S0106802aa89d5ec8.pk.shawcable.net] has joined #yahoosucks
+
+[06:34] == Igloo [~Igloo@ks383241.kimsufi.com] has joined #yahoosucks
+
+[06:36] == Lord_Nigh [Lord_Nigh@pool-108-52-174-156.phlapa.fios.verizon.net] has quit [Ping timeout: 252 seconds]
+
+[06:38] <Raccoon> found the solution to captchas. https://lolsnaps.com/wp-content/uploads/2019/06/n51t0o4thz531.jpg
+
+[06:40] == Lord_Nigh [Lord_Nigh@pool-108-52-174-156.phlapa.fios.verizon.net] has joined #yahoosucks
+
+[07:10] == wp494 [~wp494win7@S0106bcd16568841b.wp.shawcable.net] has quit [Ping timeout: 252 seconds]
+
+[07:12] == tech234a [uid352403@id-352403.stonehaven.irccloud.com] has quit [Quit: Connection closed for inactivity]
+
+[07:23] == Raccoon [~waywerd@194.34.133.208] has quit [se.hub efnet.portlane.se]
+
+[07:23] == Deewiant [~deewiant@de1.ut.deewiant.iki.fi] has quit [se.hub efnet.portlane.se]
+
+[07:23] == Raccoon` [~waywerd@194.34.133.208] has joined #yahoosucks
+
+[07:39] == Deewiant [~deewiant@de1.ut.deewiant.iki.fi] has joined #yahoosucks
+
+[07:43] == thuban1 [~weechat@c-73-211-96-74.hsd1.il.comcast.net] has joined #yahoosucks
+
+[07:49] == thuban [~weechat@c-73-211-96-74.hsd1.il.comcast.net] has quit [Read error: Operation timed out]
+
+[07:51] == Deewiant [~deewiant@de1.ut.deewiant.iki.fi] has quit [Ping timeout: 258 seconds]
+
+[07:57] == wp494 [~wp494win7@S0106bcd16568841b.wp.shawcable.net] has joined #yahoosucks
+
+[08:49] == kiskabak [james@104.168.61.80] has quit [Read error: Operation timed out]
+
+[08:50] == seednode [~seednode@stop.blaming.me] has quit [Read error: Operation timed out]
+
+[08:52] == sep332 [~sep332@mc1.metrocast.net] has quit [Read error: Operation timed out]
+
+[08:52] == benjins [~Benjins@pool-71-174-239-234.bstnma.fios.verizon.net] has quit [Read error: Operation timed out]
+
+[08:54] == phillipsj [~phillipsj@107-190-70-146.cpe.teksavvy.com] has quit [Read error: Operation timed out]
+
+[08:55] == Fusl [fusl@1.0.0.127.in-addr.arpa.li] has quit [Read error: Operation timed out]
+
+[08:55] == PurpleSym [~ppsym@luna.6xq.net] has quit [Read error: Operation timed out]
+
+[08:55] == PurpleSym [~ppsym@luna.6xq.net] has joined #yahoosucks
+
+[08:56] == mode/#yahoosucks [+o PurpleSym] by svchfoo3
+
+[08:56] == benjins [~Benjins@pool-71-174-239-234.bstnma.fios.verizon.net] has joined #yahoosucks
+
+[08:56] == Fusl [~fusl@1.0.0.127.in-addr.arpa.li] has joined #yahoosucks
+
+[09:00] == phillipsj [~phillipsj@107-190-70-146.cpe.teksavvy.com] has joined #yahoosucks
+
+[09:01] == arkiver [~arkiver@199.241.31.225] has quit [Read error: Operation timed out]
+
+[09:02] == seednode [~seednode@stop.blaming.me] has joined #yahoosucks
+
+[09:04] == arkiver [~arkiver@199.241.31.225] has joined #yahoosucks
+
+[09:04] == mode/#yahoosucks [+o arkiver] by svchfoo3
+
+[09:04] == mode/#yahoosucks [+o arkiver] by svchfoo1
+
+[09:41] == dxrt_ [~dxrt_@192.73.238.114] has quit [Read error: Operation timed out]
+
+[09:41] == JAA [~JAA@131.ip-144-217-81.net] has quit [Read error: Operation timed out]
+
+[09:41] == balrog [~balrog@pool-108-52-208-125.phlapa.fios.verizon.net] has quit [Read error: Operation timed out]
+
+[09:41] == Stilettoo [~Stiletto@24.102.227.87] has joined #yahoosucks
+
+[09:41] == kiska18 [james@172.82.152.29] has quit [Read error: Operation timed out]
+
+[09:42] == kiska2 [james@216.21.8.63] has quit [Read error: Operation timed out]
+
+[09:42] == balrog [~balrog@pool-108-52-208-125.phlapa.fios.verizon.net] has joined #yahoosucks
+
+[09:42] == svchfoo1 [~chfoo1@nullhound.fart.website] has quit [Read error: Operation timed out]
+
+[09:42] == jodizzle [~jodizzle@46.101.163.45] has quit [Read error: Operation timed out]
+
+[09:42] == mode/#yahoosucks [+o balrog] by svchfoo3
+
+[09:43] == Stiletto [~Stiletto@24.102.227.87] has quit [Ping timeout: 246 seconds]
+
+[09:43] == atrocity [~atrocity@47.200.78.7] has quit [Read error: Operation timed out]
+
+[09:44] == atrocity [~atrocity@47.200.78.7] has joined #yahoosucks
+
+[09:45] == wp494 [~wp494win7@S0106bcd16568841b.wp.shawcable.net] has quit [west.us.hub irc.Prison.NET]
+
+[09:45] == phirephly [~kenneth@44.4.17.2] has quit [west.us.hub irc.Prison.NET]
+
+[09:45] == superkuh [~superkuh@c-24-118-172-137.hsd1.wi.comcast.net] has quit [west.us.hub irc.Prison.NET]
+
+[09:46] == phirephl- [~kenneth@44.4.17.2] has joined #yahoosucks
+
+[09:47] == superkuh_ [~superkuh@c-24-118-172-137.hsd1.wi.comcast.net] has joined #yahoosucks
+
+[09:57] == jodizzle [~jodizzle@46.101.163.45] has joined #yahoosucks
+
+[09:58] == mode/#yahoosucks [+o jodizzle] by svchfoo3
+
+[10:08] == X-Scale` [~ARM@83.223.235.119] has joined #yahoosucks
+
+[10:09] == X-Scale [~ARM@83.223.235.119] has quit [Ping timeout: 240 seconds]
+
+[10:09] == X-Scale` has changed nick to X-Scale
+
+[10:10] == wp494 [~wp494win7@S0106bcd16568841b.wp.shawcable.net] has joined #yahoosucks
+
+[10:41] == asdf [webchat@c-24-21-236-69.hsd1.or.comcast.net] has joined #yahoosucks
+
+[10:42] == kiska2 [james@216.21.8.63] has joined #yahoosucks
+
+[10:42] == mode/#yahoosucks [+o kiska2] by svchfoo3
+
+[10:42] == dxrt_ [~dxrt_@192.73.238.114] has joined #yahoosucks
+
+[10:42] == kiska18 [james@172.82.152.29] has joined #yahoosucks
+
+[10:43] == svchfoo1 [~chfoo1@nullhound.fart.website] has joined #yahoosucks
+
+[10:43] == mode/#yahoosucks [+o dxrt_] by dxrt
+
+[10:43] == mode/#yahoosucks [+o kiska18] by svchfoo3
+
+[10:44] == mode/#yahoosucks [+o svchfoo1] by svchfoo3
+
+[10:46] == JAA [~JAA@131.ip-144-217-81.net] has joined #yahoosucks
+
+[10:46] == mode/#yahoosucks [+o JAA] by AlsoJAA3
+
+[11:07] == odemgi_ [~odemgi@200116b8248e78003efdff9a16543c2b.dip.versatel-1u1.de] has quit [Read error: Connection reset by peer]
+
+[11:08] == odemgi_ [~odemgi@200116b8248e78003efdff9a16543c2b.dip.versatel-1u1.de] has joined #yahoosucks
+
+[11:12] == odemgi_ [~odemgi@200116b8248e78003efdff9a16543c2b.dip.versatel-1u1.de] has quit [Read error: Connection reset by peer]
+
+[11:12] == odemgi_ [~odemgi@200116b8248e78003efdff9a16543c2b.dip.versatel-1u1.de] has joined #yahoosucks
+
+[12:13] == Jonas__ [webchat@89.179.15.109.rev.sfr.net] has joined #yahoosucks
+
+[12:13] <Jonas__> hi everybody
+
+[12:16] <odemgi_> ello poppet 
+
+[13:10] <@markedL> um, anyone else wondering where the robot got that hand from? 
+
+[13:16] <odemgi_> shelf by the door
+
+[13:18] == Jonas__ [webchat@89.179.15.109.rev.sfr.net] has quit [Ping timeout: 260 seconds]
+
+[13:30] == astrid [~chronomex@xn--ng-pma6851a.xrtc.net] has quit [Ping timeout: 1212 seconds]
+
+[13:55] == queenmab [webchat@ip70-161-250-153.hr.hr.cox.net] has joined #yahoosucks
+
+[14:08] == Hani111 [~Hani@212-149-181-30.bb.dnainternet.fi] has joined #yahoosucks
+
+[14:20] == Hani [~Hani@ddn5lkyrgnw6f-46g3wtt-3.rev.dnainternet.fi] has quit [Ping timeout: 745 seconds]
+
+[14:20] == Hani111 has changed nick to Hani
+
+[14:36] == macdude22 [~macdude22@2604:2d80:588a:1900:152f:7ccd:4bf3:75f9] has joined #yahoosucks
+
+[14:47] == MaximeleG [~Thunderbi@lfbn-1-12084-254.w90-92.abo.wanadoo.fr] has joined #yahoosucks
+
+[14:49] == vole-dev [~akovaski@99-12-190-228.lightspeed.milwwi.sbcglobal.net] has joined #yahoosucks
+
+[14:53] <@balrog> nico_32_: the group 'mailstation' is giving me trouble with downloading files — SSL errors
+
+[15:07] <@balrog> nico_32_: additionally the public group 'macdrivers' doesn't seem to be downloading all attachments
+
+[15:07] <@balrog> (see e.g. message 2426)
+
+[15:09] <@balrog> nico_32_: also why aren't we using the /groups/GROUPNAME/attachments/ api endpoint to scrape the attachments separately?
+
+[15:10] <@balrog> looks like that endpoint gives us the list of attachments for the  group, and attachment IDs, which we can then use to get the json for  each attachment, which contains the attachment details and the download  URL
+
+[15:11] <@balrog> that way we won't miss attachments (e.g. with the 'macdrivers' group)
+
+[15:11] <@balrog> anyway I have to go, bbl
+
+[15:17] == asdf [webchat@c-24-21-236-69.hsd1.or.comcast.net] has quit [Ping timeout: 260 seconds]
+
+[15:42] == oohoo [webchat@c-73-71-10-181.hsd1.ca.comcast.net] has joined #yahoosucks
+
+[15:44] == oohoo [webchat@c-73-71-10-181.hsd1.ca.comcast.net] has quit [Client Quit]
+
+[16:04] == macdude22 [~macdude22@2604:2d80:588a:1900:152f:7ccd:4bf3:75f9] has quit [Quit: Textual IRC Client: [www.textualapp.com](http://www.textualapp.com)]
+
+[16:06] == n_ [webchat@cpe-74-78-60-250.maine.res.rr.com] has joined #yahoosucks
+
+[16:07] == n_ [webchat@cpe-74-78-60-250.maine.res.rr.com] has quit [Client Quit]
+
+[16:11] <queenmab> Does yahoosucks have logs?
+
+[16:15] == Stiletto [~Stiletto@24.102.227.87] has joined #yahoosucks
+
+[16:18] == Stilettoo [~Stiletto@24.102.227.87] has quit [Read error: Operation timed out]
+
+[16:18] <Igloo> Yes queenmab 
+
+[16:18] <Igloo> WHat's up?
+
+[16:20] == satoshi [~serv@201.131.87.128.wireless.tknet-ti.com.br] has joined #yahoosucks
+
+[16:24] <queenmab> I want to read up on anything I missed but I don't know how.
+
+[16:26] == macdude22 [~macdude22@173-24-19-15.client.mchsi.com] has joined #yahoosucks
+
+[16:31] == balrog [~balrog@pool-108-52-208-125.phlapa.fios.verizon.net] has quit [Quit: Bye]
+
+[16:31] <Igloo> Oh, Seems the logger isn't here.
+
+[16:31] <Igloo> Others have logs
+
+[16:38] <@markedL> who's repo is closest to canonical now? we can put it in the topic
+
+[16:42] == balrog [~balrog@pool-108-52-208-125.phlapa.fios.verizon.net] has joined #yahoosucks
+
+[16:42] == mode/#yahoosucks [+o balrog] by svchfoo1
+
+[16:42] == mode/#yahoosucks [+o balrog] by svchfoo3
+
+[16:42] == markedL changed the topic of #yahoosucks to: Closing Oct 28/Dec 14: help.yahoo.com/kb/groups/SLN31010.html |  archiveteam.org/index.php?title=Yahoo!_Groups | Nominate:  tinyurl.com/savegroups
+
+[16:50] == markedL changed the topic of #yahoosucks to: Closing Oct 28/Dec 14: help.yahoo.com/kb/groups/SLN31010.html |  archiveteam.org/?title=Yahoo!_Groups | Nominate: tinyurl.com/savegroups
+
+[16:51] <Igloo> I hope that the archiveteam one is...
+
+[17:05] <@markedL> well no version of yahoo-group-archiver is on the archiveteam github as of yet.
+
+[17:12] == shadows [webchat@mtrlpq4709w-lp140-02-65-93-224-88.dsl.bell.ca] has joined #yahoosucks
+
+[17:13] <shadows> Hello? I came here following getting linked to the Yahoo Groups Archiving webform. I am the administrator of a restricted-access Yahoo group.
+
+[17:14] <shadows> (Also, omg, irc, I haven't done this in like 20 years.)
+
+[17:14] == tonsofpcs [~mythbuntu@cpe-67-251-117-244.stny.res.rr.com] has joined #yahoosucks
+
+[17:15] == britmob [~maxmo@pool-108-18-219-231.washdc.fios.verizon.net] has quit [Ping timeout: 252 seconds]
+
+[17:18] <tonsofpcs> can I run a warrior 'against' yahoo groups?
+
+[17:19] <shadows> Hi! Sorry, this is my first time here and I haven't done irc in 20 years. I came here following a link on a web form about archiving Yahoo groups.
+
+[17:19] <@markedL> tonsofpcs : yes, but not yet, warrior part will start running around Oct 29, they want to wait for the data to be frozen 
+
+[17:20] <@markedL> shadows : welcome , some of the admins pop-in and out because everyone's in different timezones 
+
+[17:20] <tonsofpcs> markedL: cool, thanks. I'll keep 'choice' running.
+
+[17:21] <shadows> Hi markedL! I came here following being linked to the archive team web form, which  contained the note "This form should not be used for private groups that need administrator approval for new members. If you're the  administrator of such a group and want it to be archived, drop by on  IRC; "
+
+[17:21] <shadows> I am the administrator of such a group. So here I am. :-D
+
+[17:21] <tonsofpcs> I'm not active in any yahoo groups anymore but I imagine many of them  are seeing an uptick in posts discussing how to deal with this haha
+
+[17:22] <@markedL> shadows : they have some python code that works on restricted groups, the part that they can't do without help is the join
+
+[17:22] <shadows> Is there someone I should email? How does this work?
+
+[17:23] <@markedL> @betamax , I've seen send a join request to be added to a group and that was that 
+
+[17:23] <@markedL> if you can wait for them to show up, that'd be easiest 
+
+[17:23] <@markedL> or leave the name of the group and he'll send a join request when he gets to it 
+
+[17:24] <@markedL> if you have to go
+
+[17:24] <@betamax> eek, I've been very busy today, sorry everyone
+
+[17:24] <shadows> Oh hi!
+
+[17:24] <@betamax> (and I can't stay long, will hopefully have more time tommorow)
+
+[17:24] <shadows> Okay, the group is RatBoat
+
+[17:24] <shadows> A request to join it will go to me.
+
+[17:25] <shadows> There's no hurry; we have until December 14th. :-P
