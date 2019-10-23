@@ -1,1 +1,0 @@
-I would like to discuss w this group possibility of archiving before it is erased from existence, which will happen on Dec14, 19. thrown together a couple of pgs re this: archivetransyahoo.noblogs.org

@@ -55,8 +55,14 @@ I would like to discuss w this group possibility of archiving before it is erase
 - https://groups.yahoo.com/neo/groups/FTM_International_AFLOAT/info
 - https://groups.yahoo.com/neo/groups/F2MSpankClub2/info
 - https://groups.yahoo.com/neo/groups/FtM-trans-SOFFAs/info
--  
-- 
+
+> # Oct 23 2019
+
+I would like to discuss w this group possibility of archiving before it is erased from existence, which will happen on Dec14, 19. thrown together a couple of pgs re this: archivetransyahoo.noblogs.org
+
+- https://groups.yahoo.com/neo/groups/Finances_SurgeryFTM/info
+
+
 
 
 

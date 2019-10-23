@@ -1,7 +1,8 @@
+# about gitingnore files generally:
+# https://www.atlassian.com/git/tutorials/saving-changes/gitignore#shared
+
 # typora images and such files
-
-# best documentation I could find:
-
+# best documentation I could find wrt Typora:
 # https://support.typora.io/Images/#paste-images-from-clipboard
 
 *.assets

@@ -223,7 +223,7 @@ Teen and untransitioned FtMs welcome; trans-identified Butches and Drag  Kings w
 
 
  For upcoming meetings and events, please visit the [SAGA-AZ Yahoo calendar ](http://groups.yahoo.com/group/SAGA-AZ/cal)
- 
+
 
 
  The purpose of this list is to provide a safe space for MTF-identified  or questioning people to get acquainted, talk about issues, pass on  information, and other casual conversation. It is not a dating or pickup space! 
@@ -231,11 +231,11 @@ Teen and untransitioned FtMs welcome; trans-identified Butches and Drag  Kings w
 
 
 Be sure to visit [SAGA’s official Web site](http://www.sagatucson.org) for details about SAGA projects and programs, local and national trans-related resources, and more! 
- 
+
 
 
  We invite you to explore others of our Yahoo groups.  If you are a  member of Dezert Girlz, you will probably also like to subscribe to  SAGA-AZ to receive notices of SAGA events, and SAGAChat to read what all SAGA members are saying to each other.:
- 
+
 
 > 
 >  [SAGA-AZ](http://groups.yahoo.com/group/SAGA-AZ): SAGA news and related info
@@ -418,11 +418,9 @@ FTM_Dating is an on-line email discussion list, designed to introduce female to 
 
 ArchiveTransY@protonmail.com
 
+-----------
 
-
-
-
-
+- 
 
 
 
