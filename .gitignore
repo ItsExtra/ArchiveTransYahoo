@@ -1,3 +1,10 @@
+# typora images and such files
+
+# best documentation I could find:
+
+# https://support.typora.io/Images/#paste-images-from-clipboard
+
 *.assets
 
 .DS_Store
+
