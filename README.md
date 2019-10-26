@@ -48,3 +48,7 @@ https://www.zanderkeig.net/trans-health/ many links
 ## Archiving tools
 
 [SingleFile](https://github.com/gildas-lormeau/SingleFile) browesr extension to download pages 1 at a time
+
+## misc
+
+https://itsextra.github.io/ArchiveTransYahoo/index.html github gh pages
