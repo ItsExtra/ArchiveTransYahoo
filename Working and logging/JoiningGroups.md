@@ -78,9 +78,16 @@ I would like to discuss w this group possibility of archiving before it is erase
 - https://groups.yahoo.com/neo/groups/tyfa_talk/info
 - https://groups.yahoo.com/neo/groups/ftm-uk/info
 
-# Oct 25 2019
+# Oct 26 2019
 
+I would like to discuss w this group possibility of archiving before it is erased from existence, which will happen on Dec14, 19. thrown together a couple of pgs re this: archivetransyahoo.noblogs.org
 
+- https://groups.yahoo.com/neo/groups/transepiscopal/info
+- https://groups.yahoo.com/neo/groups/transgenderedinalaska/info
+- https://groups.yahoo.com/neo/groups/transfamilycouples/info
+- https://groups.yahoo.com/neo/groups/ftmsonomacounty/info
+- https://groups.yahoo.com/neo/groups/vanguys/info
+- 
 
 
 

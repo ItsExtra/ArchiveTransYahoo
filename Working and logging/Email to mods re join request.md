@@ -1,4 +1,4 @@
-# October 23, 2019
+# Here is a site put together quickly with further information: [https://ArchiveTransYahoo.noblogs.org](https://archivetransyahoo.noblogs.org/)October 23, 2019
 
 Hi,
 
@@ -379,16 +379,170 @@ Thank you for your time in reviewing this.
 
 Jack
 
+## dezertgirlz-owner@yahoogroups.com 
+
+And Alison at la------@hotmail.com (email is in auto welcome message)
+
+Hi Alison,
+
+ 
+
+ I have requested to join because it has recently been announced that all yahoo groups will be destroyed December 14, 2019.
+
+ 
+
+ I would like owners and members of **trans groups** to consider the possibility of **downloading and archiving the contents of the group**. Otherwise lots of recent trans history could be lost.
+
+ 
+
+ Here is a site put together quickly with further information: https://ArchiveTransYahoo.noblogs.org
+
+ 
+
+ It may be that after October 28, 2019, it will no longer be possible to add new members to the group. (See link above.) So if this is possibly of interest to you, you may want to approve this membership request before that time. I will not to download anything without permission!!
+
+ One thing tyou must know: **there is no obligation to share any materials** outside of your group. I will assist anyone who requires it to retrieve their data in whatever way they need. Even if you don't need assistance but will be doing this in-house, I am hoping to compile a list of such archives and where they can be found for future use.
+
+ Please feel free to **email me** at this address [ArchiveTransY@protonmail.com](mailto:ArchiveTransY@protonmail.com). Please feel free to **share** any of this  with anyone you know who may be interested.
+
+ **About me:** I am a gay trans man on T x 10ish years. I'm just a nerd who thinks are histories are important. I have no relevant organizational or institutional affiliations. I have no personal interest in this data; I am not an academic or other kind of researcher. I simply do not want it to be lost forever.
+
+  
+
+ Thank you for your time in reviewing this.
+
+  
+
+ Jack
 
 
 
+### FtMs_in_College Moderator <FtMs_in_College-owner@yahoogroups.com>
+
+ Do you want to save the contents of your yahoo group from deletion? 
+
+Hi,
+
+ 
+
+I have requested to join as it has recently been announced that yahoo groups will be deleted on December 14.
+
+I would like owners and members of **trans groups** to consider the possibility of **downloading and archiving** the materials. Otherwise a significant amount of recent trans history could be lost.
+
+Here is a site put together with further information: https://ArchiveTransYahoo.noblogs.org
+
+There is a possibility that after October 28, it will no longer be possible to add new members to the group. (See link above.) So if this is maybe of interest to you, you may want to approve this membership request before that time. I promise not to download anything without permission!!
+
+Something to be completely clear about: **there is no obligation to share any materials** outside of your group. I will assist anyone who requires it to retrieve their data in whatever way they need. Even if you don't need assistance but will be doing this in-house, I am hoping to compile a list of such archives and where they can be found for future use.
+
+Please feel free to **email me** [ArchiveTransY@protonmail.com](mailto:ArchiveTransY@protonmail.com). Please feel free to **share** any of this information with anyone you know who may be interested.
+
+**About me:** I am a gay trans man on T x 10ish years. I'm just a nerd who thinks are histories are important. I have no relevant organizational or institutional affiliations. I have no personal interest in doing anything with this data; I am not an academic or other kind of researcher. I simply do not want it to be lost forever.
+
+ Thank you for your time in reviewing this.
+
+  Jack
+
+### EthnicFtM-owner@yahoogroups.com
+
+Hello mods! Please see the message underneath the questions. It is the more important part.
+1) How do you identify? (FtM, transman, Butch, Boi, etc)
+trans man
 
 
+2) What is your Ethic or Religious identification(s), if any, that makes you a candidate for this list?
+I am a white settler type person
 
 
+3) Where did you hear of this list?
+from one of the other lists.. tbh i forget
 
 
+4) Where do you live?
+canada
 
 
+5) What name do you wish to be called in this group?
+jack
 
 
+6) What do you wish to get out of this group?
+discuss if the member woudl like to archive it for themselves or others
+
+
+7) What other FtM lists, if any, do you belong to?
+several
+
+
+8) What transition steps or surgeries have you completed?
+t x 10 yrs
+
+
+9) What is your age?
+30s
+
+
+10)What other 'ethnic' lists, if any, do you belong to?
+none
+
+....................... meat of what I need to say to you is here .......................
+
+Hi,
+
+I have requested to join as it has recently been announced that yahoo groups will be deleted on December 14.
+
+I would like owners and members of trans groups to think about the possibility of **downloading and archiving the materials. Otherwise a significant amount of recent trans history could be lost.
+
+Here are a few pages with further information: https://ArchiveTransYahoo.noblogs.org
+
+It may be that after October 28, it will no longer be possible to add new members to the group. (See link above.) So you may want to approve this membership request before that time. I promise not to download anything without permission!!
+
+Something to be completely clear about: there is no obligation to share any materials outside of your group. I am happy to assist anyone who requires it to retrieve their data in whatever way they need. Even if you don't need assistance but will be doing this in-house, I'd like to compile a list of such archives and where they can be found for future use.
+
+Please feel free to email ArchiveTransY@protonmail.com. Please feel free to share** any of this with anyone you know who may be interested.
+
+About me: I am a gay trans man on T x 10ish years. I live in Canada I'm just a nerd who thinks are histories are important. I have no relevant organizational or institutional affiliations. I have no personal interest in doing anything with this data; I am not an academic or other kind of researcher. I simply do not want it to be lost forever.​
+
+Thank you for your time!
+
+Jack
+
+###  Moderator <Depend-FTM-partners-owner@yahoogroups.com>
+
+Subject: Impending demise of Yahoo Groups Re: FILE - Depend FTM Partners - Pending membership- Do you want to save your content? 
+
+Hi group mods,
+
+I have requested to join as it has recently been announced that yahoo groups will be deleted on December 14. 
+
+I would like owners and members of **trans groups** to consider the possibility of **downloading and archiving the materials. Otherwise a significant amount of recent trans history could be lost. 
+
+If you see this it would be greatly appreciated if you'd send it to others in your mailing list network. I am having a ahrd time getting through the filters to all the different mods. 
+
+There is a possibility that after October 28, it will no longer be possible to add new members to the group. (See link above.) So if this is maybe of interest to you, you may want to approve this membership request before that time. I promise not to download anything without permission!! 
+
+Something to be completely clear about: **there is no obligation to share any materials** outside of your group. I will assist anyone who requires it to retrieve their data in whatever way they need. Even if you don't need assistance but will be doing this in-house, I am hoping to compile a list of such archives and where they can be found for future use. 
+
+Please feel free to **email me** <ArchiveTransY@protonmail.com>. Please feel free to **share** any of this information with anyone you know who may be interested. 
+
+**About me:** I am a gay trans man on T x 10ish years. I'm just a nerd who thinks are histories are important. I have no relevant organizational or institutional affiliations. I have no personal interest in doing anything with this data; I am not an academic or other kind of researcher. I simply do not want it to be lost forever. 
+
+Thank you for your time in reviewing this.
+
+Here are the answers to your questions: 
+
+1)   What are your reasons for requesting to join the group? 
+
+As described above. 
+
+2)   What is your country of residence? 
+
+Canada
+
+3)   Please read the rules and code of conduct - do you agree to be bound by these? 
+
+Yes, or as directed otherwise by mods. 
+
+-- 
+
+Jack
