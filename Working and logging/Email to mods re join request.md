@@ -122,24 +122,6 @@ Jack
 
 
 
-# To do
-
-- **FTM-UK Moderator **"Your message to the moderator of the FTM-UK group was not delivered."
-
-- >dezertgirlz Moderator <dezertgirlz-owner@yahoogroups.com>
-
-- 
-- FtMs_in_College Moderator <FtMs_in_College-owner@yahoogroups.com>
-- FtM-trans Moderator <FtM-trans-owner@yahoogroups.com>
-- TheWomensCircle-FtM-trans-SOFFAS Moderator <TheWomensCircle-FtM-trans-SOFFAS-owner@yahoogroups.com>
-- FtM-trans-SOFFAs Moderator <FtM-trans-SOFFAs-owner@yahoogroups.com>
-- Depend-FTM-partners Moderator <Depend-FTM-partners-owner@yahoogroups.com>
-- EthnicFtM Moderator <EthnicFtM-owner@yahoogroups.com>
-- 
-- trans_melbourne_gender_project Moderator <trans_melbourne_gender_project-owner@yahoogroups.com>
-
-
-
 
 
 
