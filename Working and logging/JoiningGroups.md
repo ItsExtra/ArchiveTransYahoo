@@ -78,6 +78,8 @@ I would like to discuss w this group possibility of archiving before it is erase
 - https://groups.yahoo.com/neo/groups/tyfa_talk/info
 - https://groups.yahoo.com/neo/groups/ftm-uk/info
 
+# Oct 25 2019
+
 
 
 
