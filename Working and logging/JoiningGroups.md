@@ -56,15 +56,27 @@ I would like to discuss w this group possibility of archiving before it is erase
 - https://groups.yahoo.com/neo/groups/F2MSpankClub2/info
 - https://groups.yahoo.com/neo/groups/FtM-trans-SOFFAs/info
 
-> # Oct 23 2019
+> > # Oct 23 2019
+>
+> I would like to discuss w this group possibility of archiving before it is erased from existence, which will happen on Dec14, 19. thrown together a couple of pgs re this: archivetransyahoo.noblogs.org
+>
+> - https://groups.yahoo.com/neo/groups/Finances_SurgeryFTM/info
+
+
+
+> # Oct 24 2019
 
 I would like to discuss w this group possibility of archiving before it is erased from existence, which will happen on Dec14, 19. thrown together a couple of pgs re this: archivetransyahoo.noblogs.org
 
-- https://groups.yahoo.com/neo/groups/Finances_SurgeryFTM/info
-
-
-
-
+- https://groups.yahoo.com/neo/groups/ftmsurgerysupport/info
+- https://groups.yahoo.com/neo/groups/TG_Bulletin_Delivery/info
+- https://groups.yahoo.com/neo/groups/F2MSpankClub/info
+- https://groups.yahoo.com/neo/groups/SAGAchat/info
+- https://groups.yahoo.com/neo/groups/ffs-support/info
+- https://groups.yahoo.com/neo/groups/lgbt-india/info
+- https://groups.yahoo.com/neo/groups/transsexual-uk/info
+- https://groups.yahoo.com/neo/groups/tyfa_talk/info
+- https://groups.yahoo.com/neo/groups/ftm-uk/info
 
 
 
