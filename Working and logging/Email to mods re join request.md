@@ -345,7 +345,39 @@ Thank you for your time in reviewing this.
 
 Jack
 
+# Oct 26 2019
 
+## TransKidsFamily@yahoogroups.com (declined)
+
+(Some back and forth between CR and myself after she denied my request to join. Will see what comes of it.)
+
+Carol *carol--------@yahoo.com*
+
+Hi Carol, 
+
+I have been frantically joining all the trans groups I can find in the past week or so in the hopes tat should owners/members wish to archive the materials this can be facilitated. Below is a message explaining. Hope to hear from you.
+
+\~~~~
+
+Hello mods!
+
+I have requested to join because it has recently been announced that all yahoo groups will be deleted December 14, 2019. 
+
+I would like owners and members of **trans groups** to consider the possibility of **downloading and archiving the contents of the group**. Otherwise a significant amount of recent trans history could be lost. 
+
+Here is a site put together quickly with further information: https://ArchiveTransYahoo.noblogs.org
+
+There is a possibility that after October 28, 2019, it will no longer be possible to add new members to the group. (See link above.) So if this is possibly of interest to you, you may want to approve this membership request before that time. I promise not to download anything without permission!! 
+
+One thing to be completely clear about: **there is no obligation to share any materials** outside of your group. I will assist anyone who requires it to retrieve their data in whatever way they need. Even if you don't need assistance but will be doing this in-house, I am hoping to compile a list of such archives and where they can be found for future use. 
+
+Please feel free to **email me** at this address <ArchiveTransY@protonmail.com>. Please feel free to **share** any of this information with anyone you know who may be interested. 
+
+**About me:** I am a gay trans man on T x 10ish years. I'm just a nerd who thinks are histories are important. I have no relevant organizational or institutional affiliations. I have no personal interest in this data; I am not an academic or other kind of researcher. I simply do not want it to be lost forever. 
+
+Thank you for your time in reviewing this.
+
+Jack
 
 
 
